@@ -1,0 +1,11 @@
+﻿/.vs/GrpcDemo/DesignTimeBuild
+/.vs/GrpcDemo/FileContentIndex
+/.vs/GrpcDemo/v16
+/.vs/GrpcDemo/v17
+/.vs/ProjectEvaluation
+/GrpcClient/bin/Debug/net6.0
+/GrpcClient/obj
+/GrpcServer/bin/Debug/net6.0
+/GrpcServer/obj/Debug/net6.0
+/GrpcServer/obj
+.vs
